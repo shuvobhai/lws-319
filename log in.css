@@ -1,0 +1,46 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    background-image: url(backround.png);
+    color: black;
+}
+.H{
+    text-align: center;
+    font-size: 40px;
+    color: cornflowerblue;
+    font-family: fantasy;
+}
+.divtwo{
+    text-align: center;
+    font-size: 35px;
+   font-family: Arial, Helvetica, sans-serif;
+
+}
+.divthree{
+   border: 5px solid;
+   border-radius: 12px;
+   
+}
+.divethree input{
+    color: antiquewhite;
+
+}
+.divthree input::placeholder{
+    text-align: center;
+    color: goldenrod;
+}
+.divfour{
+   border: 5px solid;
+   border-radius: 12px;
+
+}
+.divfive{
+    margin: 0 auto;
+    width: 50%;
+}
+
+.divfive a{
+    text-align: center;
+}
+
+    

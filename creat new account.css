@@ -1,0 +1,161 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    color: aliceblue;
+    padding: 0;
+    margin: 0;
+    background-image:url(2\ backround.png);
+}
+.shuvo{
+    width:500px;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20px ;
+
+
+}
+.supon{
+    color: cadetblue;
+    font-size: 35px;
+    margin: 20px 0px 0px 0px;
+
+}
+.supon label{
+    color: #fff;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+    
+}
+.supon input{
+    color: aliceblue;
+    
+}
+.supon input::placeholder{
+    color:goldenrod;
+}
+.arnny{
+    margin: 10px 0 0 0;
+}
+.arnny label{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
+
+}
+.arnny input{
+    color: antiquewhite;}
+    
+.arnny input::placeholder{
+    color: goldenrod;
+}
+.murad{
+    margin: 10px 0 0 0;
+
+}
+.murad label{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+.murad input{
+    color: antiquewhite;
+   
+}
+.murad input::placeholder{
+    color: goldenrod;
+}
+.riad{
+    margin: 10px 0 0 0;
+}
+.riad label{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+.riad input{
+    color: antiquewhite;
+}
+.riad input::placeholder{
+    color: goldenrod;
+}
+.sajjad{
+    margin: 10px 0 0 0;
+
+}
+.sajjad label{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}   
+.sajjad input{
+    color: antiquewhite;
+
+}
+.sajjad input::placeholder{
+    color: goldenrod;
+}
+.shanil{
+    margin: 10px 0 0 0;
+
+}
+.shanil label{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+
+}
+.shanil input{
+    color: antiquewhite;
+
+}
+.shanil input::placeholder{
+    color: goldenrod;
+}
+.shanto{
+    margin: 10px 0 0 0;
+
+}
+.shanto input{
+    color:antiquewhite;
+
+}
+.shanto input::placeholder{
+    color: goldenrod;
+}
+.shishir{
+    margin: 10px 0 0 0;
+
+}
+.shishir input{
+    color: antiquewhite;
+}
+.shishir input::placeholder{
+    color: goldenrod;
+}
+.tanvir{
+    margin: 10px 0 0 0;
+}
+.tanvir input{
+    color: antiquewhite;
+}
+.tanvir input::placeholder{
+    color: goldenrod;
+}
+.raiyan{
+    margin: 10px 0 0 0;
+}
+.raiyan input{
+    color: antiquewhite;
+}
+.raiyan input::placeholder{
+    color: goldenrod;
+}
+.kashem{
+    margin: 10px 0 0 0;
+    
+}
+
+
